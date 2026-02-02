@@ -1,0 +1,37 @@
+AAC6164 Monitoring System - Final Report
+=======================================
+Generated: 2026-02-02 18:51:25
+
+1) Directory Monitoring Summary
+------------------------------
+Total directory events: 4
+CREATED:  2
+DELETED:  2
+MODIFIED: 0
+
+Latest 5 directory events:
+- CREATED | demo_final.txt | type regular | size 0 | perms 0o664 | owner vboxuser
+- DELETED | demo_final.txt | type regular | size 0 | perms 0o664 | owner vboxuser
+- CREATED | screenshot.txt | type regular | size 0 | perms 0o664 | owner vboxuser
+- DELETED | screenshot.txt | type regular | size 0 | perms 0o664 | owner vboxuser
+
+2) System Performance Summary
+-----------------------------
+Total system samples: 61
+Average CPU usage:  1.19%
+Average MEM usage:  20.20%
+Average DISK usage: 21.50%
+
+Latest system sample:
+- Timestamp: 2026-02-02 18:51:11
+- CPU: 0.10% | LoadAvg: 0.77,0.50,0.36
+- MEM: 20.30% | DISK: 21.50%
+- Processes: total 343 | running 1 | sleeping 199
+- Top CPU: python(5662):3.2%, systemd(1):0.0%, kthreadd(2):0.0%
+- Top MEM: Isolated Web Co(4312):6.60%, firefox(3507):5.66%, gnome-shell(2392):4.04%
+
+3) Files Generated
+------------------
+- Directory log CSV: /home/vboxuser/aac6164_monitor/output/logs/directory_events.csv
+- System log CSV:    /home/vboxuser/aac6164_monitor/output/logs/system_metrics.csv
+- Final report TXT:  /home/vboxuser/aac6164_monitor/output/reports/final_report.txt

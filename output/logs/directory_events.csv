@@ -1,5 +1,0 @@
-event,detected_ts,path,name,ftype,size,perms,owner,group,atime,mtime,ctime,old_size,new_size,old_mtime,new_mtime,old_perms,new_perms
-CREATED,1770057631.7973554,/home/vboxuser/aac6164_monitor/monitored/demo_final.txt,demo_final.txt,regular,0,0o664,vboxuser,vboxuser,1770057631.274105,1770057631.274105,1770057631.274105,,0,,1770057631.274105,,0o664
-DELETED,1770057633.7997782,/home/vboxuser/aac6164_monitor/monitored/demo_final.txt,demo_final.txt,regular,0,0o664,vboxuser,vboxuser,1770057631.274105,1770057631.274105,1770057631.274105,0,,1770057631.274105,,0o664,
-CREATED,1770058228.8549602,/home/vboxuser/aac6164_monitor/monitored/screenshot.txt,screenshot.txt,regular,0,0o664,vboxuser,vboxuser,1770058228.6286497,1770058228.6286497,1770058228.6286497,,0,,1770058228.6286497,,0o664
-DELETED,1770058230.856972,/home/vboxuser/aac6164_monitor/monitored/screenshot.txt,screenshot.txt,regular,0,0o664,vboxuser,vboxuser,1770058228.6286497,1770058228.6286497,1770058228.6286497,0,,1770058228.6286497,,0o664,
